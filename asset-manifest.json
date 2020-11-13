@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/fooders_app/static/css/main.8a035d7c.chunk.css",
+    "main.js": "/fooders_app/static/js/main.1200af12.chunk.js",
+    "main.js.map": "/fooders_app/static/js/main.1200af12.chunk.js.map",
+    "runtime-main.js": "/fooders_app/static/js/runtime-main.153b0111.js",
+    "runtime-main.js.map": "/fooders_app/static/js/runtime-main.153b0111.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/fooders_app/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.c607c183.chunk.js": "/fooders_app/static/js/2.c607c183.chunk.js",
+    "static/js/2.c607c183.chunk.js.map": "/fooders_app/static/js/2.c607c183.chunk.js.map",
+    "index.html": "/fooders_app/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/fooders_app/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.8a035d7c.chunk.css.map": "/fooders_app/static/css/main.8a035d7c.chunk.css.map",
+    "static/js/2.c607c183.chunk.js.LICENSE.txt": "/fooders_app/static/js/2.c607c183.chunk.js.LICENSE.txt",
+    "static/media/dalKhichadi.820be332.jpg": "/fooders_app/static/media/dalKhichadi.820be332.jpg",
+    "static/media/greenRice.585e61ff.jpg": "/fooders_app/static/media/greenRice.585e61ff.jpg",
+    "static/media/jeeraRice.c314a287.jpg": "/fooders_app/static/media/jeeraRice.c314a287.jpg",
+    "static/media/masalaRice.6b69199a.jpg": "/fooders_app/static/media/masalaRice.6b69199a.jpg",
+    "static/media/rupees.30810d63.jpg": "/fooders_app/static/media/rupees.30810d63.jpg",
+    "static/media/shejwanRice.a291b522.jpg": "/fooders_app/static/media/shejwanRice.a291b522.jpg",
+    "static/media/steamRice.f56e22db.jpg": "/fooders_app/static/media/steamRice.f56e22db.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.153b0111.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.c607c183.chunk.js",
+    "static/css/main.8a035d7c.chunk.css",
+    "static/js/main.1200af12.chunk.js"
+  ]
+}
